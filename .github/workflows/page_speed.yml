@@ -1,0 +1,22 @@
+name: CI
+
+on:
+  push:
+    branches: [ "master" ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Screenshot
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.pagespeed.screenshot.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_pagespeed: yes
+          plugin_pagespeed_screenshot: yes
+          plugin_pagespeed_pwa: yes
+          plugin_pagespeed_token: ${{ secrets.PAGE_SPEED_API_KEY }}
+          plugin_pagespeed_url: https://elc.github.io
