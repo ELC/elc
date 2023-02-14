@@ -1,17 +1,15 @@
 
-name: CI
+name: RSS from Personal Blog
 
 on:
-  push:
-    branches: [ "master" ]
-
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions: write-all
     steps:
-      - name: News from hackernews
+      - name: News from Personal Blog
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.rss.svg
@@ -19,4 +17,4 @@ jobs:
           base: ""
           plugin_rss: yes
           plugin_rss_source: http://feeds.feedburner.com/ELCWEB
-          plugin_rss_limit: 4
+          plugin_rss_limit: 5
