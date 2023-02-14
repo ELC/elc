@@ -1,6 +1,10 @@
 # Hi there, I'm Ezequiel
 
-I'm a passionate christian who in his free time loves programming and ML, below you will find some of my stats
+I'm a passionate christian who in his free time loves programming and ML, I have a [personal blog](https://elc.github.io) where I published personal and technical articles, here is a sample:
+
+![RSS Feed](metrics.plugin.rss.svg)
+
+Below you will find some of my stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=elc&show_icons=true&theme=gruvbox&border_radius=20&include_all_commits=true&count_private=true&card_width=450) ![Repo Language Usage](https://github-readme-stats.vercel.app/api/top-langs?username=elc&show_icons=true&theme=gruvbox&border_radius=20&include_all_commits=true&count_private=true&layout=compact&langs_count=5&card_width=400)
 
