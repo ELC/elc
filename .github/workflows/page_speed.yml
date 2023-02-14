@@ -19,4 +19,4 @@ jobs:
           base: ""
           plugin_pagespeed: yes
           plugin_pagespeed_token: ${{ secrets.PAGE_SPEED_API_KEY }}
-          plugin_pagespeed_url: https://elc.github.io
+          plugin_pagespeed_url: https://elc.github.io/
