@@ -1,13 +1,12 @@
-name: CI
+name: Page Speed
 
 on:
-  push:
-    branches: [ "master" ]
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions: write-all
     steps:
       - name: Screenshot
         uses: lowlighter/metrics@latest
