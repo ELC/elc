@@ -12,16 +12,16 @@ Below you will find some of my stats
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 April 2017 - To: 14 February 2023
+From: 01 April 2017 - To: 15 February 2023
 
-Total Time: 1,318 hrs 29 mins
+Total Time: 1,319 hrs 8 mins
 
-Python             588 hrs 33 mins ###########--------------   44.64 %
-Markdown           172 hrs 42 mins ###----------------------   13.10 %
+Python             588 hrs 33 mins ###########--------------   44.62 %
+Markdown           173 hrs 18 mins ###----------------------   13.14 %
 HTML               130 hrs 3 mins  ##-----------------------   09.86 %
-JavaScript         78 hrs 39 mins  #------------------------   05.97 %
+JavaScript         78 hrs 39 mins  #------------------------   05.96 %
 YAML               53 hrs 47 mins  #------------------------   04.08 %
-Jupyter Notebook   45 hrs 51 mins  #------------------------   03.48 %
+Jupyter Notebook   45 hrs 53 mins  #------------------------   03.48 %
 C#                 40 hrs 46 mins  #------------------------   03.09 %
 Other              29 hrs 35 mins  #------------------------   02.24 %
 ```
