@@ -12,7 +12,7 @@ Below you will find some of my stats
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 April 2017 - To: 22 February 2023
+From: 01 April 2017 - To: 23 February 2023
 
 Total Time: 1,319 hrs 8 mins
 
