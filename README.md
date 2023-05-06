@@ -20,7 +20,7 @@ Thank you for visiting my GitHub profile, and feel free to reach out to me if yo
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 April 2017 - To: 03 May 2023
+From: 01 April 2017 - To: 04 May 2023
 
 Total Time: 1,342 hrs 30 mins
 
@@ -32,6 +32,8 @@ YAML               53 hrs 47 mins  #------------------------   04.01 %
 Jupyter Notebook   53 hrs 44 mins  #------------------------   04.00 %
 C#                 40 hrs 46 mins  #------------------------   03.04 %
 Other              29 hrs 38 mins  #------------------------   02.21 %
+JSON               26 hrs 24 mins  -------------------------   01.97 %
+SCSS               22 hrs 46 mins  -------------------------   01.70 %
 ```
 
 <!--END_SECTION:waka-->
