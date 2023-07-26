@@ -20,20 +20,20 @@ Thank you for visiting my GitHub profile, and feel free to reach out to me if yo
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 April 2017 - To: 23 July 2023
+From: 01 April 2017 - To: 24 July 2023
 
-Total Time: 1,383 hrs 57 mins
+Total Time: 1,387 hrs 22 mins
 
-Python             604 hrs 32 mins ###########--------------   43.68 %
-Markdown           198 hrs 31 mins ####---------------------   14.35 %
-HTML               130 hrs 11 mins ##-----------------------   09.41 %
-JavaScript         78 hrs 41 mins  #------------------------   05.69 %
-Jupyter Notebook   64 hrs 55 mins  #------------------------   04.69 %
-YAML               53 hrs 50 mins  #------------------------   03.89 %
-C#                 40 hrs 46 mins  #------------------------   02.95 %
-Other              31 hrs 32 mins  #------------------------   02.28 %
-JSON               26 hrs 58 mins  -------------------------   01.95 %
-SCSS               22 hrs 47 mins  -------------------------   01.65 %
+Python             604 hrs 32 mins ###########--------------   43.57 %
+Markdown           201 hrs 54 mins ####---------------------   14.55 %
+HTML               130 hrs 11 mins ##-----------------------   09.38 %
+JavaScript         78 hrs 41 mins  #------------------------   05.67 %
+Jupyter Notebook   64 hrs 55 mins  #------------------------   04.68 %
+YAML               53 hrs 50 mins  #------------------------   03.88 %
+C#                 40 hrs 46 mins  #------------------------   02.94 %
+Other              31 hrs 32 mins  #------------------------   02.27 %
+JSON               26 hrs 59 mins  -------------------------   01.95 %
+SCSS               22 hrs 47 mins  -------------------------   01.64 %
 ```
 
 <!--END_SECTION:waka-->
