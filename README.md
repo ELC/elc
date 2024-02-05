@@ -20,7 +20,7 @@ Thank you for visiting my GitHub profile, and feel free to reach out to me if yo
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 April 2017 - To: 02 February 2024
+From: 01 April 2017 - To: 03 February 2024
 
 Total Time: 1,543 hrs 2 mins
 
