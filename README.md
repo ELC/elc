@@ -51,7 +51,7 @@ Online guides I wrote:
 Web Apps I developed:
 
 - Personal blog - [Web](https://elc.github.io) -
-  [Repo](https://github.com/elc.github.io)
+  [Repo](https://github.com/ELC/elc.github.io)
 - Lyrics to PPT - [Web](https://elc.github.io/lyrics-presentation/) -
   [Repo](https://github.com/ELC/lyrics-presentation/)
 - WatchThis - [Web](https://elc.github.io/WatchThis/) -
