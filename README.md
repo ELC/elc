@@ -79,20 +79,20 @@ Below you will find some stats of the things I do outside of my work
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 April 2017 - To: 23 September 2024
+From: 01 April 2017 - To: 25 September 2024
 
-Total Time: 1,651 hrs 8 mins
+Total Time: 1,659 hrs 18 mins
 
-Python             725 hrs 41 mins ###########--------------   43.95 %
-Markdown           230 hrs 52 mins ###----------------------   13.98 %
-HTML               133 hrs 10 mins ##-----------------------   08.07 %
-Jupyter Notebook   105 hrs 8 mins  ##-----------------------   06.37 %
-JavaScript         96 hrs 46 mins  #------------------------   05.86 %
-YAML               73 hrs 18 mins  #------------------------   04.44 %
-C#                 40 hrs 46 mins  #------------------------   02.47 %
-Other              37 hrs 24 mins  #------------------------   02.27 %
-JSON               29 hrs 6 mins   -------------------------   01.76 %
-TOML               25 hrs 4 mins   -------------------------   01.52 %
+Python             733 hrs 23 mins ###########--------------   44.20 %
+Markdown           230 hrs 52 mins ###----------------------   13.91 %
+HTML               133 hrs 29 mins ##-----------------------   08.05 %
+Jupyter Notebook   105 hrs 8 mins  ##-----------------------   06.34 %
+JavaScript         96 hrs 46 mins  #------------------------   05.83 %
+YAML               73 hrs 18 mins  #------------------------   04.42 %
+C#                 40 hrs 46 mins  #------------------------   02.46 %
+Other              37 hrs 24 mins  #------------------------   02.25 %
+JSON               29 hrs 6 mins   -------------------------   01.75 %
+TOML               25 hrs 4 mins   -------------------------   01.51 %
 ```
 
 <!--END_SECTION:waka-->
