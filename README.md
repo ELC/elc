@@ -79,7 +79,7 @@ Below you will find some stats of the things I do outside of my work
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 April 2017 - To: 11 April 2026
+From: 01 April 2017 - To: 12 April 2026
 
 Total Time: 2,078 hrs 25 mins
 
